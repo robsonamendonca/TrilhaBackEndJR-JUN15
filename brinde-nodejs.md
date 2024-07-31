@@ -49,4 +49,4 @@ Pronto! Agora você importou com sucesso o perfil no Visual Studio Code. Todas a
 
 
 ![Image description](https://divulgandome.com.br/brinde-nodejs/assets/images/passos/Passo8.jpg)
-Espero que este tutorial tenha sido útil para você. Se gostou desse artigo, não se esqueça de deixar o seu like e me seguir no github.
+Espero que este tutorial tenha sido útil para você. Se gostou desse artigo, não se esqueça de deixar ⭐ e me seguir no github.
